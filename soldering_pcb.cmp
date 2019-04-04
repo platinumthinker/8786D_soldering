@@ -1,0 +1,219 @@
+Cmp-Mod V01 Created by PcbNew   date = Ср 13 мар 2019 11:58:04
+
+BeginCmp
+TimeStamp = 5C954C40
+Path = /5EAE1B73
+Reference = U12;
+ValeurCmp = LM317_TO3;
+IdModule  = Package_TO_SOT_THT:TO-3P-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954604
+Path = /5C626891
+Reference = BR1;
+ValeurCmp = SDB107-TP;
+IdModule  = Diode_SMD:Diode_Bridge_Diotec_ABS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C95462C
+Path = /5C6271AF
+Reference = C1;
+ValeurCmp = 100uF;
+IdModule  = Capacitor_SMD:CP_Elec_4x3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954654
+Path = /5C627227
+Reference = C2;
+ValeurCmp = 100uF;
+IdModule  = Capacitor_SMD:CP_Elec_4x3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954663
+Path = /5C73556D
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954672
+Path = /5E6D0988
+Reference = C4;
+ValeurCmp = 0.1u;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954681
+Path = /5E654FB9
+Reference = C5;
+ValeurCmp = 0.1u;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954690
+Path = /5C755025
+Reference = C6;
+ValeurCmp = 22pF;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C95469F
+Path = /5C7557CF
+Reference = C7;
+ValeurCmp = 22pF;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9546AE
+Path = /5C820C74
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9546BD
+Path = /5E29C563
+Reference = C9;
+ValeurCmp = 0.1u;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9546CC
+Path = /5E35F1BA
+Reference = C10;
+ValeurCmp = 0.1u;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9547D4
+Path = /5C732CA8
+Reference = C11;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_THT:CP_Radial_D14.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9548DC
+Path = /5D091B1F
+Reference = C12;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_THT:CP_Radial_D14.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9549E4
+Path = /5C72F76E
+Reference = C13;
+ValeurCmp = 2200uF;
+IdModule  = Capacitor_THT:CP_Radial_D14.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954AEC
+Path = /5D091B18
+Reference = C14;
+ValeurCmp = 2200uF;
+IdModule  = Capacitor_THT:CP_Radial_D14.0mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954B08
+Path = /5C71902A
+Reference = D1;
+ValeurCmp = GBU8A;
+IdModule  = Diode_THT:Diode_Bridge_Vishay_GBU;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954B24
+Path = /5D091B11
+Reference = D6;
+ValeurCmp = GBU8A;
+IdModule  = Diode_THT:Diode_Bridge_Vishay_GBU;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954B31
+Path = /5C625B54
+Reference = J1;
+ValeurCmp = power_solder1;
+IdModule  = Connector_Wire:SolderWirePad_1x04_P5.08mm_Drill1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954B4B
+Path = /5C831B5A
+Reference = Q1;
+ValeurCmp = IRF3205;
+IdModule  = Package_TO_SOT_THT:TO-220-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954B65
+Path = /5D230C61
+Reference = Q2;
+ValeurCmp = IRF3205;
+IdModule  = Package_TO_SOT_THT:TO-220-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954B7F
+Path = /5DA8AE47
+Reference = Q3;
+ValeurCmp = BT139-600;
+IdModule  = Package_TO_SOT_THT:TO-220-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954BB6
+Path = /5C747458
+Reference = U1;
+ValeurCmp = ATmega8;
+IdModule  = Package_QFP:TQFP-32_7x7mm_P0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954BD2
+Path = /5C630676
+Reference = U2;
+ValeurCmp = LM358;
+IdModule  = Package_DIP:DIP-8_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954BEC
+Path = /5C70FE07
+Reference = U3;
+ValeurCmp = LM7805_TO220;
+IdModule  = Package_TO_SOT_THT:TO-220-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954C04
+Path = /5CA01F43
+Reference = U9;
+ValeurCmp = SFH617A-2;
+IdModule  = Package_DIP:DIP-4_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C954C1C
+Path = /5D339F1E
+Reference = U10;
+ValeurCmp = SFH617A-2;
+IdModule  = Package_DIP:DIP-4_W7.62mm;
+EndCmp
+
+EndListe
